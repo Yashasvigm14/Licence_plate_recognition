@@ -22,7 +22,7 @@ Overall System Accuracy: Calculating the overall accuracy of the entire license 
 ## Architecture
 
 
-![App Screenshot]("C:\Users\Yashasvi\Pictures\Screenshots\Screenshot 2024-02-26 203816.png")
+("C:\Users\Yashasvi\Pictures\Screenshots\Screenshot 2024-02-26 203816.png")
 
 ![App Screenshot]("C:\Users\Yashasvi\Pictures\Screenshots\Screenshot 2024-02-26 203838.png")
 
