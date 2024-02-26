@@ -40,3 +40,7 @@ Input Image:
 
 ![car](https://github.com/Yashasvigm14/Licence_plate_recognition/assets/132649643/3cef05df-7f8c-4d69-adfe-3beb07f5e04e)
 
+Predicted output:
+
+![Screenshot 2024-02-26 214029](https://github.com/Yashasvigm14/Licence_plate_recognition/assets/132649643/8ad72cdf-4eb9-4b9c-8ea6-56d36c292cae)
+
