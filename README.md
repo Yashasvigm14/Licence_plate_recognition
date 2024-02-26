@@ -22,11 +22,14 @@ Overall System Accuracy: Calculating the overall accuracy of the entire license 
 ## Architecture
 
 
-("C:\Users\Yashasvi\Pictures\Screenshots\Screenshot 2024-02-26 203816.png")
+![Screenshot 2024-02-26 203816](https://github.com/Yashasvigm14/Licence_plate_recognition/assets/132649643/e8c869fa-bea8-473a-8256-61ac45db71a2)
 
-![App Screenshot]("C:\Users\Yashasvi\Pictures\Screenshots\Screenshot 2024-02-26 203838.png")
 
-![App Screenshot]("C:\Users\Yashasvi\Pictures\Screenshots\Screenshot 2024-02-26 203858.png")
+![Screenshot 2024-02-26 203838 - Copy](https://github.com/Yashasvigm14/Licence_plate_recognition/assets/132649643/5f083dad-e294-4386-9eb2-5270e920efdb)
+
+
+![Screenshot 2024-02-26 203858](https://github.com/Yashasvigm14/Licence_plate_recognition/assets/132649643/7f467458-722c-4d70-aa54-b10e2f584a7b)
+
 
 
 ## Results
