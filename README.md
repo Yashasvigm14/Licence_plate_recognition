@@ -35,3 +35,8 @@ Overall System Accuracy: Calculating the overall accuracy of the entire license 
 ## Results
 
 The model trained for 18 epochs achieved an outstanding accuracy of 88.67% using the provided dataset. This remarkable performance highlights the effectiveness of the chosen approach and techniques in recognizing alphabets (A-Z) and digits (0–9) from 28x28 images. Augmenting the training data with techniques like width and height shift using the ImageDataGenerator class in Keras contributed to the model's robustness and generalization.
+
+Input Image:
+
+![car](https://github.com/Yashasvigm14/Licence_plate_recognition/assets/132649643/3cef05df-7f8c-4d69-adfe-3beb07f5e04e)
+
